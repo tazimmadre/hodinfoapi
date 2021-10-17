@@ -11,7 +11,7 @@
 
   },
   "scripts": {
-    "start":"node server/index.js"
+    "start":"node index"
   },
   "eslintConfig": {
     "extends": [
